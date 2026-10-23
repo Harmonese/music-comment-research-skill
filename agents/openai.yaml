@@ -1,0 +1,12 @@
+interface:
+  display_name: "Music Comment Research"
+  short_description: "研究歌曲、专辑与发行版本，整理创作背景、音乐分析、乐评与听众讨论"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
